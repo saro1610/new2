@@ -1,0 +1,4 @@
+if 1>10;
+print ("true")
+else
+print("true")
